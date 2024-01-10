@@ -1,12 +1,13 @@
 
 
-const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_AUTH_DOMAIN",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_STORAGE_BUCKET",
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-    appId: "YOUR_APP_ID",
+const firebaseConfig ={
+    apiKey: "AIzaSyDs0d3Q8aXJKebvkoqSqI5c4FXJ2c_YidQ",
+  authDomain: "bm-innovations-b83ca.firebaseapp.com",
+  projectId: "bm-innovations-b83ca",
+  storageBucket: "bm-innovations-b83ca.appspot.com",
+  messagingSenderId: "259002070283",
+  appId: "1:259002070283:web:a574a510e7a94cef8e5e0e",
+  measurementId: "G-HRJYZV6E3T"
   }
 export default firebaseConfig
 
